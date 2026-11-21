@@ -1,5 +1,5 @@
 envVarGroups:
-  - name: gp-r01-a
+  - name: gp-r01-b
     envVars:
       - key: A
         value: "1"
