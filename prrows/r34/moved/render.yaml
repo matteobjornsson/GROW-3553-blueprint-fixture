@@ -1,5 +1,0 @@
-envVarGroups:
-  - name: gp-r34-a
-    envVars:
-      - key: A
-        value: "1"
