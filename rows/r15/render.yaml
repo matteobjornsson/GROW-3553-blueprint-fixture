@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gx-r15-b
+    envVars:
+      - key: A
+        value: "1"
