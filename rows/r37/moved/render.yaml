@@ -1,5 +1,5 @@
 envVarGroups:
-  - name: gx-r37-a
+  - name: gx-r37-b
     envVars:
       - key: A
         value: "1"
