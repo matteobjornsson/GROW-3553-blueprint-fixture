@@ -3,3 +3,7 @@ envVarGroups:
     envVars:
       - key: A
         value: "1"
+  - name: gx-r31-b
+    envVars:
+      - key: A
+        value: "1"
