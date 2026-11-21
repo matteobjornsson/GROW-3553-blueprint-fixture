@@ -1,5 +1,1 @@
-envVarGroups:
-  - name: gx-r02-a
-    envVars:
-      - key: A
-        value: "1"
+envVarGroups: []
