@@ -1,5 +1,1 @@
-envVarGroups:
-  - name: gx-r33on-a
-    envVars:
-      - key: A
-        value: "1"
+envVarGroups: [
