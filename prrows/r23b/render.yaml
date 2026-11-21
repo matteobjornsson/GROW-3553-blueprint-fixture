@@ -1,1 +1,5 @@
-envVarGroups: [
+envVarGroups:
+  - name: gp-r23b-b
+    envVars:
+      - key: A
+        value: "1"
