@@ -1,5 +1,5 @@
 envVarGroups:
-  - name: grow3553-alpha
+  - name: gx-t00-a
     envVars:
       - key: A
         value: "1"
