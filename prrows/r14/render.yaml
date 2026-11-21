@@ -1,5 +1,0 @@
-envVarGroups:
-  - name: gp-r14-a
-    envVars:
-      - key: A
-        value: "1"
