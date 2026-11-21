@@ -1,5 +1,7 @@
+previews:
+  generation: manual
 envVarGroups:
-  - name: gx-r03a-a
+  - name: gx-r03a-b
     envVars:
       - key: A
         value: "1"
