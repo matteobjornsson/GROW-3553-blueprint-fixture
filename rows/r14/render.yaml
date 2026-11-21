@@ -1,5 +1,0 @@
-envVarGroups:
-  - name: gx-r14-a
-    envVars:
-      - key: A
-        value: "1"
