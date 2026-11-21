@@ -1,5 +1,5 @@
 envVarGroups:
-  - name: gp-r44-x
+  - name: gp-r44-b
     envVars:
       - key: A
         value: "1"
