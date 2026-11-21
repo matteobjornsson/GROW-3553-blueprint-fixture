@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gx-r23h-a
+    envVars:
+      - key: A
+        value: "1"

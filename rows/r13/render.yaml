@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gx-r13-a
+    envVars:
+      - key: A
+        value: "1"

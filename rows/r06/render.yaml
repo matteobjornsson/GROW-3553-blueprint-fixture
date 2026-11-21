@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gx-r06-a
+    envVars:
+      - key: A
+        value: "1"

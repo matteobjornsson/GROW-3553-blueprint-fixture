@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gx-r42-x
+    envVars:
+      - key: A
+        value: "1"
