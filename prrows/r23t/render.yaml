@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gp-r23t-a
+    envVars:
+      - key: A
+        value: "1"

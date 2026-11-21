@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gp-r04-a
+    envVars:
+      - key: A
+        value: "1"

@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gp-r10-x
+    envVars:
+      - key: A
+        value: "1"

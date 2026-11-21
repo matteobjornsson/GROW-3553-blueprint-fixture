@@ -1,0 +1,5 @@
+envVarGroups:
+  - name: gp-r11-a
+    envVars:
+      - key: A
+        value: "1"
