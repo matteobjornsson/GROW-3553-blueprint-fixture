@@ -1,5 +1,7 @@
+previews:
+  generation: manual
 envVarGroups:
-  - name: gp-r03a-a
+  - name: gp-r03a-b
     envVars:
       - key: A
         value: "1"
