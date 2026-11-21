@@ -1,5 +1,1 @@
-envVarGroups:
-  - name: gp-r42-x
-    envVars:
-      - key: A
-        value: "1"
+envVarGroups: [
