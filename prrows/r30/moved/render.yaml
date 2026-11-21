@@ -1,5 +1,1 @@
-envVarGroups:
-  - name: gp-r30-a
-    envVars:
-      - key: A
-        value: "1"
+envVarGroups: []
